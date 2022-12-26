@@ -1,4 +1,4 @@
-# Gym_Management.github.io
+# GymManagementSystem.github.io
 
 This is a [website](https://faisalkhan171101.github.io/GymManagementSystem.github.io/) made using Html, css & JavaScript. This is the continuation of my IT mini project at Presidency University
 
